@@ -1,0 +1,13 @@
+{
+  "name": "primer-trabajo-de-TI",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
